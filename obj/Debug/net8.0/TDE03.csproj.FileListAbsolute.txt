@@ -1,0 +1,15 @@
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\bin\Debug\net8.0\TDE03.exe
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\bin\Debug\net8.0\TDE03.deps.json
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\bin\Debug\net8.0\TDE03.runtimeconfig.json
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\bin\Debug\net8.0\TDE03.dll
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\bin\Debug\net8.0\TDE03.pdb
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\TDE03.GeneratedMSBuildEditorConfig.editorconfig
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\TDE03.AssemblyInfoInputs.cache
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\TDE03.AssemblyInfo.cs
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\TDE03.csproj.CoreCompileInputs.cache
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\TDE03.sourcelink.json
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\TDE03.dll
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\refint\TDE03.dll
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\TDE03.pdb
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\TDE03.genruntimeconfig.cache
+D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\ref\TDE03.dll
