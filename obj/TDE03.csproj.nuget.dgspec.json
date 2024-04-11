@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\[FACULDADE]\\Laboratório de Programação\\Aula-06\\TDE03\\TDE03.csproj": {}
+    "C:\\Users\\thelinkergu\\Documents\\Gustavo M Lupim\\Laboratório de Programação\\Aula-06\\Lab-TDE03-main\\TDE03.csproj": {}
   },
   "projects": {
-    "D:\\[FACULDADE]\\Laboratório de Programação\\Aula-06\\TDE03\\TDE03.csproj": {
+    "C:\\Users\\thelinkergu\\Documents\\Gustavo M Lupim\\Laboratório de Programação\\Aula-06\\Lab-TDE03-main\\TDE03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\[FACULDADE]\\Laboratório de Programação\\Aula-06\\TDE03\\TDE03.csproj",
+        "projectUniqueName": "C:\\Users\\thelinkergu\\Documents\\Gustavo M Lupim\\Laboratório de Programação\\Aula-06\\Lab-TDE03-main\\TDE03.csproj",
         "projectName": "TDE03",
-        "projectPath": "D:\\[FACULDADE]\\Laboratório de Programação\\Aula-06\\TDE03\\TDE03.csproj",
-        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "D:\\[FACULDADE]\\Laboratório de Programação\\Aula-06\\TDE03\\obj\\",
+        "projectPath": "C:\\Users\\thelinkergu\\Documents\\Gustavo M Lupim\\Laboratório de Programação\\Aula-06\\Lab-TDE03-main\\TDE03.csproj",
+        "packagesPath": "C:\\Users\\thelinkergu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thelinkergu\\Documents\\Gustavo M Lupim\\Laboratório de Programação\\Aula-06\\Lab-TDE03-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thelinkergu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

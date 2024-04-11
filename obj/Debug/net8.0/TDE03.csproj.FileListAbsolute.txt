@@ -13,3 +13,17 @@ D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\refi
 D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\TDE03.pdb
 D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\TDE03.genruntimeconfig.cache
 D:\[FACULDADE]\Laboratório de Programação\Aula-06\TDE03\obj\Debug\net8.0\ref\TDE03.dll
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\obj\Debug\net8.0\TDE03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\obj\Debug\net8.0\TDE03.AssemblyInfoInputs.cache
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\obj\Debug\net8.0\TDE03.AssemblyInfo.cs
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\obj\Debug\net8.0\TDE03.csproj.CoreCompileInputs.cache
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\obj\Debug\net8.0\TDE03.dll
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\obj\Debug\net8.0\refint\TDE03.dll
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\obj\Debug\net8.0\TDE03.pdb
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\bin\Debug\net8.0\TDE03.exe
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\bin\Debug\net8.0\TDE03.deps.json
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\bin\Debug\net8.0\TDE03.runtimeconfig.json
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\bin\Debug\net8.0\TDE03.dll
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\bin\Debug\net8.0\TDE03.pdb
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\obj\Debug\net8.0\TDE03.genruntimeconfig.cache
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-06\Lab-TDE03-main\obj\Debug\net8.0\ref\TDE03.dll
