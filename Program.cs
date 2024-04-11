@@ -73,8 +73,13 @@
 
 // while(true)
 // {
-//     Console.WriteLine("Digite um número natural maior que zero:");
+//     Console.WriteLine("Digite um número natural maior que zero: (ou 999 para sair)");
 //     int numeroUser = Convert.ToInt32(Console.ReadLine());
+
+//     if (numeroUser == 999) 
+//     {
+//         break;
+//     }
 
 //     //Verifica se não digitou número negativo ou zero
 //     if(numeroUser <= 0)
@@ -99,9 +104,26 @@
 // - Incrementando 1 em cada passo 
 // - Com e loop infinito (use "break" e "continue")
 
+// for(int i = 10; i <= 20; i+=2)
+// {
+//     if(i == 16)
+//      continue;
+
+//     Console.WriteLine($"i = {i}");
+// }
+
+// for(int i = 10; i<= 20; i++)
+// {
+//     if(i % 2 == 1)
+//     continue;
+//     if(i == 16)
+//     continue;
+//     Console.WriteLine($"i = {i}");
+// }
+
 // for(int i = 10; ; i+=2)
 // {
-//     if(i = 1)
+//     if(i == 16)
 //     continue;
 //     if(i > 20)
 //     break;
@@ -177,13 +199,36 @@
 // inteiros. (considere que na divisão podemos ter números fracionários e que não existe divisão por zero e 
 // quando isso ocorrer exibir uma mensagem de alerta
 
-int num1;
-int num2;
-string operacao;
-float respota;
+// int num1;
+// int num2;
+// string operacao;
+// float resposta;
 
-Console.WriteLine("Informe o primero número:");
-num1 = int.Parse(Console.ReadLine());
+// Console.WriteLine("Informe o primeiro numero");
+// num1 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Informe o segundo número:");
-num1 = int.Parse(Console.ReadLine());
+// Console.WriteLine("Informe a operação (*, +, -, /)");
+// operacao = Console.ReadLine();
+
+// Console.WriteLine("Informe o segundo numero");
+// num2 = Convert.ToInt32(Console.ReadLine());
+
+// switch (operacao)
+// {
+//     case "-":
+//     resposta = num1 - num2;
+//     break;
+//     case "+":
+//     resposta = num1 + num2;
+//     break;
+//     case "/":
+//     resposta = (float) num1 / num2;
+//     break;
+//     case "*":
+//     resposta =  num1 * num2;
+//     break;
+//     default:
+//     resposta = 0;  
+//     break;
+// }
+// Console.WriteLine($"{num1} {operacao} {num2} = {resposta}");
